@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|c:\\users\\user\\source\\examen-2\\proveedores app\\proveedores app\\views\\proveedoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|solutionrelative:proveedores app\\views\\proveedoresview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|c:\\users\\user\\source\\examen-2\\proveedores app\\proveedores app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|solutionrelative:proveedores app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|c:\\users\\user\\source\\examen-2\\proveedores app\\proveedores app\\views\\proveedoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|solutionrelative:proveedores app\\views\\proveedoresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|c:\\users\\user\\source\\examen-2\\proveedores app\\proveedores app\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|solutionrelative:proveedores app\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|c:\\users\\user\\source\\examen-2\\proveedores app\\proveedores app\\viewmodels\\proveedoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|solutionrelative:proveedores app\\viewmodels\\proveedoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|c:\\users\\user\\source\\examen-2\\proveedores app\\proveedores app\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|solutionrelative:proveedores app\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|c:\\users\\user\\source\\examen-2\\proveedores app\\proveedores app\\models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739AB97-5D4D-4D16-8BEE-F8798FDB9FC8}|Proveedores App\\Proveedores App.csproj|solutionrelative:proveedores app\\models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Proveedores App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\App.xaml.cs",
+              "RelativeToolTip": "Proveedores App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T01:59:47.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedoresView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Views\\ProveedoresView.xaml.cs",
+              "RelativeDocumentMoniker": "Proveedores App\\Views\\ProveedoresView.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Views\\ProveedoresView.xaml.cs",
+              "RelativeToolTip": "Proveedores App\\Views\\ProveedoresView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T01:31:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedoresView.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Views\\ProveedoresView.xaml",
+              "RelativeDocumentMoniker": "Proveedores App\\Views\\ProveedoresView.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Views\\ProveedoresView.xaml",
+              "RelativeToolTip": "Proveedores App\\Views\\ProveedoresView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-27T01:19:32.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Services\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "Proveedores App\\Services\\DataBaseService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Services\\DataBaseService.cs",
+              "RelativeToolTip": "Proveedores App\\Services\\DataBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T01:14:37.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedoresViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\ViewModels\\ProveedoresViewModel.cs",
+              "RelativeDocumentMoniker": "Proveedores App\\ViewModels\\ProveedoresViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\ViewModels\\ProveedoresViewModel.cs",
+              "RelativeToolTip": "Proveedores App\\ViewModels\\ProveedoresViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T01:07:58.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Services\\IDataBaseService.cs",
+              "RelativeDocumentMoniker": "Proveedores App\\Services\\IDataBaseService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Services\\IDataBaseService.cs",
+              "RelativeToolTip": "Proveedores App\\Services\\IDataBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:57:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Models\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Proveedores App\\Models\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\Examen-2\\Proveedores App\\Proveedores App\\Models\\Proveedores.cs",
+              "RelativeToolTip": "Proveedores App\\Models\\Proveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:52:28.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
