@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="Proveedores_App.Views.ProveedoresView"
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Proveedores">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <!-- Título -->
+            <Label Text="Gestión de Proveedores"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <!-- Formulario -->
+            <StackLayout Spacing="10">
+                <Label Text="Nombre:" />
+                <Entry Text="{Binding ProveedorSeleccionado.Nombre}" 
+                       Placeholder="Nombre del proveedor" />
+
+                <Label Text="Dirección:" />
+                <Entry Text="{Binding ProveedorSeleccionado.Direccion}" 
+                       Placeholder="Dirección" />
+
+                <Label Text="Teléfono:" />
+                <Entry Text="{Binding ProveedorSeleccionado.Telefono}" 
+                       Placeholder="Teléfono" />
+
+                <Label Text="Email:" />
+                <Entry Text="{Binding ProveedorSeleccionado.Email}" 
+                       Placeholder="Email" />
+
+                <Label Text="Producto:" />
+                <Entry Text="{Binding ProveedorSeleccionado.Producto}" 
+                       Placeholder="Producto que suministra" />
+            </StackLayout>
+
+            <!-- Botones -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Button Text="Nuevo" 
+                        Command="{Binding CrearProveedorCommand}"
+                        BackgroundColor="Blue"
+                        TextColor="White" />
+
+                <Button Text="Guardar" 
+                        Command="{Binding GuardarProveedorCommand}"
+                        BackgroundColor="Green"
+                        TextColor="White" />
+
+                <Button Text="Eliminar" 
+                        Command="{Binding EliminarProveedorCommand}"
+                        BackgroundColor="Red"
+                        TextColor="White" />
+            </StackLayout>
+
+            <!-- Lista de Proveedores -->
+            <Label Text="Lista de Proveedores"
+                   FontSize="16"
+                   FontAttributes="Bold" />
+
+            <CollectionView ItemsSource="{Binding ProveedoresCollection}"
+                            SelectedItem="{Binding ProveedorSeleccionado}"
+                            SelectionMode="Single">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Border BackgroundColor="LightGray" 
+                                Stroke="Gray"
+                                StrokeThickness="1"
+                                Margin="0,5">
+                            <StackLayout Padding="10">
+                                <Label Text="{Binding Nombre}" FontAttributes="Bold" />
+                                <Label Text="{Binding Direccion}" />
+                                <Label Text="{Binding Telefono}" />
+                                <Label Text="{Binding Email}" />
+                                <Label Text="{Binding Producto}" />
+                            </StackLayout>
+                        </Border>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
